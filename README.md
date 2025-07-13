@@ -82,6 +82,6 @@ The analysis reveals 4 distinct customer segments:
 
 ## Technologies
 The project is created with:
-- Python 3.10
+- Python 3
 - Jupyter Notebook
 - libraries: pandas, numpy, sklearn, yellowbrick, seaborn, matplotlib, plotly
