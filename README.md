@@ -1,1 +1,1 @@
-# Airline-Customer-Segmentation
+# Airline Traveler Segmentation via LRFMC Analysis
